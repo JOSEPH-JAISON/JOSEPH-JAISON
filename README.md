@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@josephjaison's Holopin board](https://holopin.me/josephjaison)](https://holopin.io/@josephjaison)
-(https://foundation.mulearn.org/profile/recXBYQRtYUQfMpmW)
+<img src="{https://foundation.mulearn.org/profile/recXBYQRtYUQfMpmW}" />(https://foundation.mulearn.org/profile/recXBYQRtYUQfMpmW)
