@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@josephjaison's Holopin board](https://holopin.me/josephjaison)](https://holopin.io/@josephjaison)
-
+-->
      <img src="https://foundation.mulearn.org/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F971439996458385448%2F987449308372688976%2Fbadge.png&w=384&q=75" alt="image1">
 
     <img src="https://foundation.mulearn.org/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F971439996458385448%2F987435025928683531%2Fbadge.png&w=384&q=75" alt="image1">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://foundation.mulearn.org/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F971439996458385448%2F999719872076451920%2Fbadge.png&w=384&q=75" alt="image1">
     <img src="https://foundation.mulearn.org/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F971439996458385448%2F1008815700556648468%2Fbadge.png&w=384&q=75" alt="image1">
 (https://foundation.mulearn.org/profile/recXBYQRtYUQfMpmW)
-
+-->
 
 
 
