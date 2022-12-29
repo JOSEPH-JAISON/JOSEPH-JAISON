@@ -24,6 +24,6 @@ Here are some ideas to get you started:
     <img src="https://foundation.mulearn.org/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F971439996458385448%2F1008815700556648468%2Fbadge.png&w=384&q=75" alt="image1">
 (https://foundation.mulearn.org/profile/recXBYQRtYUQfMpmW)
 </picture>
-</picture>
+
 
 
