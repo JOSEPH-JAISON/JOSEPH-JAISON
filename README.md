@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=JOSEPH-JAISON">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSEPH-JAISON">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JOSEPH-JAISON&theme=vue">
+<img src="https://github-profile-trophy.vercel.app/?username=JOSEPH-JAISON">
 
 ---
 
