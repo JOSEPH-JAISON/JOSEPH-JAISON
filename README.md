@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 ![image]({https://github-readme-stats.vercel.app/api?username={JOSEPH-JAISON}}
----
 ---
 [![@josephjaison's Holopin board](https://holopin.me/josephjaison)](https://holopin.io/@josephjaison)
 
