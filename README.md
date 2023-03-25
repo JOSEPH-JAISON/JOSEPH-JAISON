@@ -4,14 +4,15 @@
 # Myself Joseph Jaison an Electronics and Communication Engineering Student at College of Engineering Chengannur.
 
 ## Here is my Github Status.
-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOSEPH-JAISON1212%2Fhit-counter">
+
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=JOSEPH-JAISON">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSEPH-JAISON">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JOSEPH-JAISON&theme=vue">
 <img src="https://github-profile-trophy.vercel.app/?username=JOSEPH-JAISON">
-
+---
+- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOSEPH-JAISON1212%2Fhit-counter">
 ---
 
 [![@josephjaison's Holopin board](https://holopin.me/josephjaison)](https://holopin.io/@josephjaison)
