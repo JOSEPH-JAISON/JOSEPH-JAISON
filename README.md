@@ -12,7 +12,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JOSEPH-JAISON&theme=vue">
 <img src="https://github-profile-trophy.vercel.app/?username=JOSEPH-JAISON">
 ---
-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOSEPH-JAISON1212%2Fhit-counter">
+ <img src="https://komarev.com/ghpvc/?username=JOSEPH-JAISON&label=Profile%20views&color=0e75b6&style=flat" alt="JOSEPH-JAISON" /> </p>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOSEPH-JAISON1212%2Fhit-counter">
 ---
 
 [![@josephjaison's Holopin board](https://holopin.me/josephjaison)](https://holopin.io/@josephjaison)
