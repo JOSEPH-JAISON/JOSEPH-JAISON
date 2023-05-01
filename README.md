@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/joseph-jaison/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-jaison" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joe_jaison/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_jaison" height="30" width="40" /></a>
-<a href="https://discord.gg/Joseph Jaison#0066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Joseph Jaison#0066" height="30" width="40" /></a>
+
 </p>
 
 <br>
